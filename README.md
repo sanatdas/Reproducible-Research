@@ -1,5 +1,5 @@
 # Reproducible-Research
-Data Science - Reproducible Research
+Data Science Course - Reproducible Research
 
 THe Dataset: subset of a United States medical expenditures dataset with information on costs for different medical conditions and in different areas of the country.
 
